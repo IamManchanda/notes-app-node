@@ -1,0 +1,14 @@
+{
+  "name": "notes-app-node",
+  "version": "1.0.0",
+  "description": "Notes app in Node.js",
+  "main": "server.js",
+  "author": "Harry Manchanda",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "node-fetch": "^2.0.0"
+  }
+}
